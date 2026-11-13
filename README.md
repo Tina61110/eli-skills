@@ -1,0 +1,15 @@
+# eli-skills
+
+Eli \u7684\u6280\u80fd\u5e93\u3002\u6bcf\u4e2a\u5b50\u76ee\u5f55\u662f\u4e00\u4e2a skill\uff0c\u91cc\u9762\u4e00\u4e2a SKILL.md\u3002
+
+| skill | \u7528\u4e8e |
+|---|---|
+| ounce-code-work | \u6539 Ounce / Nook \u4ee3\u7801\u3001\u7f16\u5305\u3001\u63d0\u4ea4\u63a8\u9001 |
+
+## \u5728 Ounce \u91cc\u5bfc\u5165
+
+\u8bbe\u7f6e \u2192 \u4ee3\u7406\u6280\u80fd \u2192 \u4ece GitHub \u5bfc\u5165\uff0c\u586b\u5b50\u76ee\u5f55\u7f51\u5740\uff1a
+
+```
+https://github.com/Tina61110/eli-skills/tree/main/ounce-code-work
+```
